@@ -16,3 +16,6 @@
 [submodule "pipex"]
 	path = pipex
 	url = git@github.com:guicdas/Pipex_42.git
+[submodule "libft"]
+	path = libft
+	url = git@github.com:guicdas/Libft_42.git
