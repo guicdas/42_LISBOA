@@ -13,3 +13,6 @@
 [submodule "Minishell"]
 	path = Minishell
 	url = git@github.com:heldergoncalves0/MInishell42.git
+[submodule "pipex"]
+	path = pipex
+	url = git@github.com:guicdas/Pipex_42.git
