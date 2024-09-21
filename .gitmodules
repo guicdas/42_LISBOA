@@ -19,3 +19,9 @@
 [submodule "libft"]
 	path = libft
 	url = git@github.com:guicdas/Libft_42.git
+[submodule "CPP05_42"]
+	path = CPP05_42
+	url = git@github.com:guicdas/CPP05_42.git
+[submodule "cpp_42"]
+	path = cpp_42
+	url = git@github.com:guicdas/CPP_42.git
