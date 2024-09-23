@@ -25,3 +25,6 @@
 [submodule "cpp_42"]
 	path = cpp_42
 	url = git@github.com:guicdas/CPP_42.git
+[submodule "philosophers"]
+	path = philosophers
+	url = git@github.com:guicdas/Philosophers_42.git
