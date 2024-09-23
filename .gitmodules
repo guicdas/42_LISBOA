@@ -28,3 +28,6 @@
 [submodule "philosophers"]
 	path = philosophers
 	url = git@github.com:guicdas/Philosophers_42.git
+[submodule "push_swap"]
+	path = push_swap
+	url = git@github.com:guicdas/Push_swap_42.git
