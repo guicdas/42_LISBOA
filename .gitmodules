@@ -1,33 +1,12 @@
-[submodule "cpp00-04"]
-	path = cpp00-04
-	url = git@github.com:guicdas/CPP_42.git
 [submodule "ft_printf"]
 	path = ft_printf
 	url = git@github.com:guicdas/Ft_printf_42.git
 [submodule "so_long"]
 	path = so_long
 	url = git@github.com:guicdas/So_long_42.git
-[submodule "cub3d"]
-	path = cub3d
-	url = git@github.com:guicdas/Cubed_42.git
 [submodule "Minishell"]
 	path = Minishell
 	url = git@github.com:heldergoncalves0/MInishell42.git
-[submodule "pipex"]
-	path = pipex
-	url = git@github.com:guicdas/Pipex_42.git
-[submodule "libft"]
-	path = libft
-	url = git@github.com:guicdas/Libft_42.git
-[submodule "CPP05_42"]
-	path = CPP05_42
-	url = git@github.com:guicdas/CPP05_42.git
 [submodule "cpp_42"]
 	path = cpp_42
 	url = git@github.com:guicdas/CPP_42.git
-[submodule "philosophers"]
-	path = philosophers
-	url = git@github.com:guicdas/Philosophers_42.git
-[submodule "push_swap"]
-	path = push_swap
-	url = git@github.com:guicdas/Push_swap_42.git
