@@ -10,3 +10,6 @@
 [submodule "cpp_42"]
 	path = cpp_42
 	url = git@github.com:guicdas/CPP_42.git
+[submodule "minishell"]
+	path = minishell
+	url = git@github.com:guicdas/Minishell_42.git
